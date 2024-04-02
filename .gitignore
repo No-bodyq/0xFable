@@ -34,3 +34,6 @@ packages/circuits/out
 packages/circuits/trusted_setup
 packages/circuits/zkeys
 packages/webapp/public/proofs
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
